@@ -6,6 +6,7 @@
 - 💬 Ask me about **Mern, Computer-Vision, Deep Learning**
 
 - 📫 How to reach me **vamsikandikonda7@gmail.com**
+- - ⚡ Fun fact **My fingers fly across the keyboard at 70 words per minute, keeping up with my commit rate**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi-31&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-31" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi-31" alt="vamsi-31" /></a> </p>
