@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theaidream.com%2F&psig=AOvVaw3j8-W40r7tgIK9uDC42i7i&ust=1711455529246000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj3_Zzoso-FAxX4b2wGHQcLCVUQjRx6BAgAEBU)]
 <h1 align="center">Hi 👋, I'm K Vamsi Krishna</h1>
 <h3 align="center">A passionate Full stack developer and Ai Engineeringfrom India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
