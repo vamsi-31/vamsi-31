@@ -1,4 +1,4 @@
-<img src="https://github.com/vamsi-31/vamsi-31/assets/105601899/700d1519-dcf8-42e4-ad00-163fa3728f92" width="600" height="400">
+<img src="https://github.com/vamsi-31/vamsi-31/assets/105601899/700d1519-dcf8-42e4-ad00-163fa3728f92" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm K Vamsi Krishna</h1>
 <h3 align="center">A passionate Full stack developer and Ai Engineeringfrom India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
