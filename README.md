@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm K Vamsi Krishna</h1>
 <h3 align="center">A passionate Full stack developer and Ai Engineeringfrom India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi-31&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-31" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamsi-31" alt="vamsi-31" /></a> </p>
 
 - 🌱 I’m currently learning **React,next,Transformers**
