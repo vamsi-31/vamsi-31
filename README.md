@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm K Vamsi Krishna</h1>
 <h3 align="center">A passionate Full stack developer and Ai Engineeringfrom India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **React,next,Transformers**
+- 🌱 I’m currently learning **Java,Springboot,Python,Transformers,LLMS,**
 
-- 💬 Ask me about **Mern, Computer-Vision, Deep Learning**
+- 💬 Ask me about **Java,Springboot,Fullstack Mern,Machine Learning, Computer-Vision, Deep Learning**
 
 - 📫 How to reach me **vamsikandikonda7@gmail.com**
 - - ⚡ Fun fact **My fingers fly across the keyboard at 70 words per minute, keeping up with my commit rate**
