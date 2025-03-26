@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsi-31&show_icons=true&locale=en" alt="vamsi-31" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-31&" alt="vamsi-31" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=vamsi-31&theme=gruvbox-duo" alt="GitHub Streak" /></a>
