@@ -1,10 +1,11 @@
 <img src="https://github.com/vamsi-31/vamsi-31/assets/105601899/700d1519-dcf8-42e4-ad00-163fa3728f92" width="1000" height="300">
-<h1 align="center">Hi 👋, I'm K Vamsi Krishna</h1>
-<h3 align="center">A passionate Full stack developer and Ai Engineeringfrom India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Java,Springboot,Python,Transformers,LLMS,**
+<h1 align="center">Hi there, I'm K Vamsi Krishna 👋</h1>
+<h3 align="center">A Passionate Full Stack Developer, AI Engineer, and DevOps Enthusiast from India 🇮🇳</h3>
 
-- 💬 Ask me about **Java,Springboot,Fullstack Mern,Machine Learning, Computer-Vision, Deep Learning**
+<p align="center">
+  <img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="margin-left: 20px;">
+  <em>I'm driven by the challenge of building robust, scalable applications and intelligent systems. <br>From crafting seamless user experiences with the MERN stack to developing powerful backend services with Java & Spring Boot, and diving deep into the world of AI/ML, I love bringing ideas to life through code. <br>I'm also keenly interested in streamlining the development lifecycle through DevOps practices.</em>
+  <br><br>
 
 - 📫 How to reach me **vamsikandikonda7@gmail.com**
 - - ⚡ Fun fact **My fingers fly across the keyboard at 70 words per minute, keeping up with my commit rate**
