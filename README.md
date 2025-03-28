@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsi-31&show_icons=true&locale=en" alt="vamsi-31" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=VAMSI-31&theme=telegram-gradient" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=vamsi-31&theme=theme=telegram-gradient" alt="GitHub Streak" /></a>
 
