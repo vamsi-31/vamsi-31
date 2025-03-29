@@ -7,7 +7,7 @@
   <em>I'm driven by the challenge of building robust, scalable applications and intelligent systems. <br>From crafting seamless user experiences with the MERN stack to developing powerful backend services with Java & Spring Boot, and diving deep into the world of AI/ML, I love bringing ideas to life through code. <br>I'm also keenly interested in streamlining the development lifecycle through DevOps practices.</em>
   <br><br>
 
-- 📫 How to reach me **vamsikandikonda7@gmail.com**
+- 📫 How to reach me **vamsik.devloper@gmail.com**
 - - ⚡ Fun fact **My fingers fly across the keyboard at 70 words per minute, keeping up with my commit rate**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi-31&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi-31" /> </p>
 
