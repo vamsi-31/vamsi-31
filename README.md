@@ -1,141 +1,179 @@
-<img src="https://github.com/vamsi-31/vamsi-31/assets/105601899/700d1519-dcf8-42e4-ad00-163fa3728f92" width="1000" alt="Profile Banner">
+<div align="center">
+  <img src="https://github.com/vamsi-31/vamsi-31/assets/105601899/700d1519-dcf8-42e4-ad00-163fa3728f92" width="100%" alt="Profile Banner">
+</div>
 
-<h1 align="center">Hi there, I'm K Vamsi Krishna 👋</h1>
-<h3 align="center">A DevOps Engineer Driving Efficiency with Code, Automation, and AI/ML Insights | Based in India 🇮🇳</h3>
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+K+Vamsi+Krishna+%F0%9F%91%8B;DevOps+Engineer+%7C+Cloud+Architect;AI%2FML+Enthusiast+%7C+Automation+Expert" alt="Typing SVG" />
+  </h1>
+  <h3 align="center">🚀 Driving Efficiency with Code, Automation, and AI/ML Insights | Based in India 🇮🇳</h3>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vamsi-31&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/vamsi-31?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/vamsi-31?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</div>
 
 ---
+
+## 🧑‍💻 About Me
 
 <table>
   <tr>
     <td valign="top" width="65%">
-      <p align="left">
-        As a DevOps Engineer, I thrive on building, automating, and optimizing resilient and scalable infrastructure. My passion lies in bridging the gap between development and operations, leveraging a diverse technical toolkit to enhance the entire software development lifecycle (SDLC).
-        <br><br>
-        My hands-on experience with languages like <strong>Go, Python, Java, and JavaScript</strong>, coupled with proficiency in frameworks like <strong>Spring Boot, Django, Flask, and Node.js</strong>, allows me to not only manage infrastructure but also deeply understand application architecture, build custom automation tools, and collaborate effectively with development teams.
-        <br><br>
-        I'm particularly fascinated by the potential of <strong>AI/ML and Large Language Models (LLMs)</strong> to revolutionize operations, exploring areas like AIOps, predictive monitoring, and intelligent automation within CI/CD pipelines and infrastructure management.
-      </p>
-      <br>
-      <strong>Key Areas of Focus:</strong>
-      <ul>
-        <li>☁️ Cloud Infrastructure & Automation (AWS, GCP, Azure)</li>
-        <li>🚀 CI/CD Pipeline Design & Implementation (Jenkins, GitLab CI, GitHub Actions)</li>
-        <li>📦 Containerization & Orchestration (Docker, Kubernetes)</li>
-        <li>🏗️ Infrastructure as Code (Terraform, Pulumi, CloudFormation)</li>
-        <li>🛠️ Automation Scripting & Tooling (Go, Python, Bash)</li>
-        <li>📊 Monitoring, Logging, and Alerting (Prometheus, Grafana, ELK Stack)</li>
-        <li>🔒 Security Best Practices & Implementation (DevSecOps Principles)</li>
-        <li>🤖 Exploring AI/ML applications in DevOps (MLOps, AIOps, LLM-driven automation)</li>
-      </ul>
-      <br>
-      <ul>
-         <li>📫 How to reach me: <a href="mailto:vamsik.devloper@gmail.com">vamsik.devloper@gmail.com</a></li>
-         <li>⚡ Fun fact: My typing speed (70 WPM) tries its best to keep up with my commit rate! 😉</li>
-      </ul>
-    </td>
+      
+**DevOps Engineer passionate about building resilient, scalable infrastructure** 🏗️
+
+As a DevOps Engineer, I excel at **automating complex workflows** and **optimizing CI/CD pipelines** to bridge the gap between development and operations. My expertise spans across multiple programming languages and cutting-edge technologies, enabling me to deliver robust solutions that enhance the entire software development lifecycle.
+
+  ###  🎯 **Core Expertise**
+- **Multi-Language Proficiency**: Go, Python, Java, JavaScript with frameworks like Spring Boot, Django, Flask, and Node.js
+- **Infrastructure Architecture**: Deep understanding of application architecture and custom automation tool development
+- **AI/ML Integration**: Pioneering **AIOps**, predictive monitoring, and LLM-driven automation in DevOps workflows
+
+## 🔥 **What Drives Me**
+I'm particularly fascinated by the convergence of **AI/ML and DevOps**, exploring how Large Language Models can revolutionize operations through intelligent automation, predictive analytics, and enhanced monitoring capabilities.
+
+> *"Automation is not about replacing humans; it's about amplifying human potential."*
+
+</td>
     <td valign="top" width="35%">
-      <p align="center">
-        <img alt="DevOps/Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-        <!-- Alternative DevOps GIFs if preferred:
-        https://media.giphy.com/media/JQGZVv01Ql3Mhdr2Q2/giphy.gif
-        https://media.giphy.com/media/itscbQ8zFB طرق/giphy.gif
-        -->
-      </p>
+      <div align="center">
+        <img alt="DevOps Animation" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+        
+**Quick Stats** 📊
+- 🌱 Currently exploring **Kubernetes & GitOps**
+- 💻 **70 WPM** typing speed
+- ☁️ **Multi-cloud** certified
+- 🤖 **AI/ML** integration specialist
+      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-<h3 align="left">🔧 Technologies & Tools:</h3>
+## 🎯 Key Areas of Focus
 
-<p align="left">
-  <strong>Languages:</strong> 
-    <a href="https://golang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="35" height="35"/></a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a> 
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="35" height="35"/></a>
-  <br><br>
-  <strong>Backend & Frameworks:</strong> 
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/></a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/></a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="35" height="35"/></a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="35" height="35"/></a> 
-  <br><br>
-  <strong>Frontend & Design:</strong> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/> </a> 
-  <br><br>
-  <strong>Cloud, Infra & CI/CD:</strong> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a> 
-    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="35" height="35"/></a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="35" height="35"/></a> 
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="35" height="35"/></a> 
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="35" height="35"/></a> 
-    <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="github_actions" width="35" height="35"/></a> 
-    <a href="https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab_ci" width="35" height="35"/></a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></a>
-  <br><br>
-  <strong>Databases:</strong> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/></a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></a> 
-    <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="35" height="35"/></a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/> </a> 
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/> </a> 
-  <br><br>
-  <strong>AI/ML & Data:</strong> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/></a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/></a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/> </a> 
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/> </a> 
-    
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats & Activity:</h3>
-
-<p align="center">
-  <a href="https://github.com/vamsi-31">
-    <img src="https://komarev.com/ghpvc/?username=vamsi-31&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-    <!-- Optional: Add a space -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vamsi-31&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
-    <!-- Alternative themes: onedark, duotones, nord, gruvbox etc. -->
-  </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsi-31&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-      <!-- More spacing -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-31&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=vamsi-31" alt="Top Languages"/>
-  <!-- Themes available: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-  <!-- Added include_all_commits=true to stats, increased langs_count, excluded this repo from langs -->
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/vamsikdev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter - vamsikdev" height="30" width="40" /></a>  
-  <a href="https://www.leetcode.com/vamsikandikonda7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode - vamsikandikonda7" height="30" width="40" /></a>  
+<div align="center">
   
+| 🏗️ **Infrastructure** | 🚀 **CI/CD & Automation** | 🔒 **Security & Monitoring** | 🤖 **AI/ML Integration** |
+|:---:|:---:|:---:|:---:|
+| Cloud Infrastructure (AWS, GCP, Azure) | Pipeline Design & Implementation | DevSecOps Principles | MLOps & AIOps |
+| Infrastructure as Code | Jenkins, GitLab CI, GitHub Actions | Security Best Practices | LLM-driven Automation |
+| Docker & Kubernetes | Automation Scripting | Monitoring & Alerting | Predictive Analytics |
+| Terraform & Pulumi | Custom Tooling Development | Prometheus & Grafana | Intelligent Operations |
+
+</div>
+
+---
+
+## 🛠️ **Tech Arsenal**
+
+### 🔤 **Programming Languages**
+<p align="left">
+  <a href="https://golang.org" target="_blank"><img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" width="45" height="45" alt="Bash"/></a>
 </p>
+
+### ☁️ **Cloud & Infrastructure**
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS"/></a>
+  <a href="https://cloud.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP"/></a>
+  <a href="https://azure.microsoft.com" target="_blank"><img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" width="45" height="45" alt="Terraform"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" width="45" height="45" alt="Jenkins"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" width="45" height="45" alt="GitHub Actions"/></a>
+</p>
+
+### 🚀 **Frameworks & Backend**
+<p align="left">
+  <a href="https://spring.io/" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="45" height="45" alt="Django"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/></a>
+</p>
+
+### 🗄️ **Databases & Storage**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="PostgreSQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/></a>
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://skillicons.dev/icons?i=dynamodb" width="45" height="45" alt="DynamoDB"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase"/></a>
+  <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite"/></a>
+</p>
+
+### 🤖 **AI/ML & Data Science**
+<p align="left">
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow"/></a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vamsi-31&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vamsi-31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=vamsi-31" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-31&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-31&custom_title=Vamsi's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=1f6feb&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vamsik.devloper@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vamsikdev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/vamsikandikonda7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsi-krishna-kandikonda)
+
+</div>
+
+<div align="center">
+  
+### 💡 **Fun Fact**
+> My **70 WPM** typing speed keeps pace with my automation dreams! ⚡  
+> *Always ready to automate the world, one pipeline at a time* 🚀
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+**⭐ From [vamsi-31](https://github.com/vamsi-31) with ❤️**
+
+</div>
