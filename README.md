@@ -52,7 +52,7 @@ The future isn't just automated - it's intelligent. And I'm coding that future, 
 
 <div align="center">
   
-**🌱 Currently mastering Kubernetes & GitOps**  
+**🌱 Currently mastering Kubernetes & GitOps & LLMS**  
 **💻 Lightning-fast 70 WPM coder**  
 **☁️ Multi-cloud certified**  
 **🤖 AI/ML integration specialist**  
